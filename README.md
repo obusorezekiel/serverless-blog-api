@@ -66,7 +66,7 @@ The architecture of the project includes the following components:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/serverless-blog-api.git
+    git clone https://github.com/obusorezekiel/serverless-blog-api.git
     cd serverless-blog-api
     ```
 
