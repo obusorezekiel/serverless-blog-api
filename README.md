@@ -1,7 +1,3 @@
-Here’s an example of a **comprehensive README** file for a **Serverless Blog API** using **API Gateway**, **Lambda**, **DynamoDB**, **Python**, and **Terraform**. This README will guide users through the purpose of the project, setup, and how to use the API.
-
----
-
 # Serverless Blog API
 
 This project creates a serverless blog API using **AWS API Gateway**, **AWS Lambda**, **AWS DynamoDB**, and **Python**. The infrastructure is managed using **Terraform**, allowing seamless deployment and management of cloud resources.
